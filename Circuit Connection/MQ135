@@ -1,0 +1,5 @@
+ MQ-2 Pin  |     ESP8266 Pin
+____________________________
+VCC	      |     5V
+GND       |	    GND
+A0	      |     A0 (Analog Input)
