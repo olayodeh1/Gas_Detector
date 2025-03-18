@@ -1,0 +1,4 @@
+Buzzer Pin	| ESP8266 Pin
+___________________________
+Positive	 | GPIO 14 (D5)
+Negative	 | GND
