@@ -1,0 +1,6 @@
+RGB LED Pin | ESP8266 Pin	     |   Resistor
+_________________________________________
+Red (R)   	|  GPIO 12 (D6)  	 |   220Ω
+Green(G)	  |  GPIO 13 (D7)	   |   220Ω
+Blue (B)	  |  GPIO 15 (D8)	   |   220Ω
+GND	        |  GND             |  	-
