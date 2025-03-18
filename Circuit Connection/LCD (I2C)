@@ -1,0 +1,4 @@
+  LCD Pin |	ESP8266 Pin
+  ______________________
+  VCC     |	5V
+  GND	    | GND
